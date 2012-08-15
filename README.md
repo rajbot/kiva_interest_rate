@@ -1,4 +1,5 @@
-= Find Kiva Field Partners with the lowest interest rates =
+Find Kiva Field Partners with the lowest interest rates
+=======================================================
 
 Some Kiva Partners charge the equivalent of 80% APR. That is incredibly high.
 
