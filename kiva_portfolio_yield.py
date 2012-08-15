@@ -80,19 +80,19 @@ sorted_partners = sorted(partner_array, key=lambda k: k['yield'])
 #print sorted_partners
 
 print '<table>'
-print '<thead><td>Partner Name</td><td>Portfolio Yield</td><td>Risk Rating</td></thead>'
+print '<thead><tr><th>Partner Name</th><th>Portfolio Yield</th><th>Risk Rating</th></tr></thead>'
 print '<tbody>'
 for p in sorted_partners:
-    print '  <td>'
-    print '    <tr><a href="%s">%s</a></tr>' % (p['url'], p['name'])
+    print '  <tr>'
+    print '    <td><a href="%s">%s</a></td>' % (p['url'], p['name'])
     if 'N/A' == p['yield']:
-        print '    <tr>%s</tr>' % (p['yield'])
+        print '    <td>%s</td>' % (p['yield'])
     else:
-        print '    <tr>%s%%</tr>' % (p['yield'])
+        print '    <td>%s%%</td>' % (p['yield'])
     if 'Non-Rated' == p['risk']:
-        print '    <tr>%s</tr>' % (p['risk'])
+        print '    <td>%s</td>' % (p['risk'])
     else:
-        print '    <tr>%s stars</tr>' % (p['risk'])
-    print '  </td>'
+        print '    <td>%s stars</td>' % (p['risk'])
+    print '  </tr>'
 print '</tbody>'
 print '</table>'
