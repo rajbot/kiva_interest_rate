@@ -31,6 +31,21 @@ Here are the results, ranked by what Kiva calls "Portfolio Yield", from 2012Aug1
     <td>Non-Rated</td>
   </tr>
   <tr>
+    <td><a href="http://www.kiva.org/partners/132">Opportunity Fund</a></td>
+    <td>2.00%</td>
+    <td>3.5 stars</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.kiva.org/partners/200">ASI Federal Credit Union</a></td>
+    <td>8.75%</td>
+    <td>3.5 stars</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.kiva.org/partners/228">Valley Economic Development Center, Inc.</a></td>
+    <td>8.96%</td>
+    <td>2 stars</td>
+  </tr>
+  <tr>
     <td><a href="http://www.kiva.org/partners/245">Kashf Foundation</a></td>
     <td>10.24%</td>
     <td>3 stars</td>
@@ -124,11 +139,6 @@ Here are the results, ranked by what Kiva calls "Portfolio Yield", from 2012Aug1
     <td><a href="http://www.kiva.org/partners/116">XacBank</a></td>
     <td>19.87%</td>
     <td>5 stars</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.kiva.org/partners/132">Opportunity Fund</a></td>
-    <td>2.00%</td>
-    <td>3.5 stars</td>
   </tr>
   <tr>
     <td><a href="http://www.kiva.org/partners/137">Fundación ESPOIR</a></td>
@@ -719,16 +729,6 @@ Here are the results, ranked by what Kiva calls "Portfolio Yield", from 2012Aug1
     <td><a href="http://www.kiva.org/partners/184">MicroKing Savings and Credit Company (MKF)</a></td>
     <td>74.46%</td>
     <td>3 stars</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.kiva.org/partners/200">ASI Federal Credit Union</a></td>
-    <td>8.75%</td>
-    <td>3.5 stars</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.kiva.org/partners/228">Valley Economic Development Center, Inc.</a></td>
-    <td>8.96%</td>
-    <td>2 stars</td>
   </tr>
   <tr>
     <td><a href="http://www.kiva.org/partners/46">HOPE DRC, a partner of HOPE International</a></td>

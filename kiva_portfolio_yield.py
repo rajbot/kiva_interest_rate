@@ -75,9 +75,15 @@ for tr in tbody:
                         })
 
 
-sorted_partners = sorted(partner_array, key=lambda k: k['yield'])
+def yield_as_float(k):
+    try:
+        return float(k['yield'])
+    except:
+        return float('Inf')
 
+sorted_partners = sorted(partner_array, key=yield_as_float)
 #print sorted_partners
+
 
 print '<table>'
 print '<thead><tr><th>Partner Name</th><th>Portfolio Yield</th><th>Risk Rating</th></tr></thead>'
